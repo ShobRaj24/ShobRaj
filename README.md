@@ -2,7 +2,7 @@
 👋 Hello! Welcome to my GitHub profile!
 
 🧠 About Me:
-I'm Shob Raj Gowda, a passionate software developer and tech enthusiast. My journey in the world of programming began whenI opted for computer Science in my !2th  class, I've been captivated by the limitless possibilities that coding offers. I love tackling complex problems, exploring new technologies, and building innovative solutions.
+I'm Shob Raj Gowda, a passionate software developer and tech enthusiast. My journey in the world of programming began whenI opted for computer Science in my 12th  class, I've been captivated by the limitless possibilities that coding offers. I love tackling complex problems, exploring new technologies, and building innovative solutions.
 
 💻 Tech Stack:
 My primary focus is on Web Development,App development. 
